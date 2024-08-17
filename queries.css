@@ -52,15 +52,23 @@
   player {
     padding: 5rem;
   }
+  .btn {
+    font-size: 1.3rem;
+  }
   .btn--new {
     top: 3rem;
   }
   .btn--roll {
     top: 37.5rem;
-    left: 10rem;
+    left: 7.5rem;
   }
   .btn--hold {
     top: 37.5rem;
-    left: 25rem;
+    left: 29rem;
+  }
+  .dice {
+    height: 4.5rem;
+    top: 37.5rem;
+    left: 19rem;
   }
 }
